@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Informasi Organisasi_IBI-K57"
